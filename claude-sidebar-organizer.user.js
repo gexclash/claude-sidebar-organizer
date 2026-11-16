@@ -1,17 +1,17 @@
 // ==UserScript==
 // @name         Claude Sidebar Organizer
-// @namespace    https://github.com/gexhaw/claude-sidebar-organizer
+// @namespace    https://github.com/gexclash/claude-sidebar-organizer
 // @version      1.6.2
 // @description  Color labels, sorting, groups and notes for Claude.ai chat history
-// @author       gexhaw
+// @author       gexclash
 // @match        https://claude.ai/*
 // @grant        none
 // @run-at       document-idle
 // @license      MIT
-// @homepageURL  https://github.com/gexhaw/claude-sidebar-organizer
-// @supportURL   https://github.com/gexhaw/claude-sidebar-organizer/issues
-// @updateURL    https://raw.githubusercontent.com/gexhaw/claude-sidebar-organizer/main/claude-sidebar-organizer.user.js
-// @downloadURL  https://raw.githubusercontent.com/gexhaw/claude-sidebar-organizer/main/claude-sidebar-organizer.user.js
+// @homepageURL  https://github.com/gexclash/claude-sidebar-organizer
+// @supportURL   https://github.com/gexclash/claude-sidebar-organizer/issues
+// @updateURL    https://raw.githubusercontent.com/gexclash/claude-sidebar-organizer/main/claude-sidebar-organizer.user.js
+// @downloadURL  https://raw.githubusercontent.com/gexclash/claude-sidebar-organizer/main/claude-sidebar-organizer.user.js
 // ==/UserScript==
 
 (function () {
