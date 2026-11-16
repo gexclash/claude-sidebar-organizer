@@ -47,7 +47,7 @@ On touch screens, **long-press** a chat instead of right-clicking. It does not w
 
 1. Install one of the userscript managers above.
 2. Click this link to install the script directly:
-   [claude-sidebar-organizer.user.js](https://raw.githubusercontent.com/gexhaw/claude-sidebar-organizer/main/claude-sidebar-organizer.user.js)
+   [claude-sidebar-organizer.user.js](https://raw.githubusercontent.com/gexclash/claude-sidebar-organizer/main/claude-sidebar-organizer.user.js)
 3. Your userscript manager will open an install prompt — confirm it.
 4. Open or refresh [claude.ai](https://claude.ai).
 
